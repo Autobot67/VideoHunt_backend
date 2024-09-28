@@ -1,7 +1,7 @@
 {
-  "name": "chai-backend",
+  "name": "VideoHunt - Backend",
   "version": "1.0.0",
-  "description": "a backend at chai aur code channel - youtube",
+  "description": "a backend project",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,8 @@
   "keywords": [
     "javascript",
     "backend",
-    "chai"
   ],
-  "author": "Hitesh Choudhary",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.1",
